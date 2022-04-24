@@ -12,3 +12,7 @@
 ||mask-t.apple-dns.net^$dnsrewrite=NXDOMAIN;;
 ||mask.apple-dns.net^$dnsrewrite=NXDOMAIN;;
 ||mask-api.fe.apple-dns.net^$dnsrewrite=NXDOMAIN;;
+||googlevideo.com/videoplayback?expire=*&ei=*&ip=*&id=*&itag=*&aitags=*&source=youtube&requiressl=yes&ctier=L
+||googlevideo.com/videoplayback?expire=*&ei=*&ip=*&id=*&itag=*&aitags=*&source=youtube&requiressl=yes&mh=*&mm=*&mn=*&ms=*&mv=m&mvi=*&pl=*&ctier=L
+||googlevideo.com/videoplayback?expire=*&ei=*&ip=*&id=*&itag=*&source=youtube&requiressl=yes&ctier=L
+||googlevideo.com/videoplayback?expire=*&ei=*-*&ip=*&id=*&itag=*&source=youtube&requiressl=yes&mh=*&mm=*&mn=*&ms=*&mv=m&mvi=*&pl=*&ctier=L*
