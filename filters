@@ -1,3 +1,5 @@
 chomikuj.pl###plugininInstallerDiv
 mail.yahoo.com###messageListContainer > div:nth-of-type(2)
 s.yimg.com###messageListContainer > div:nth-of-type(2)
+chomikuj.pl##.recommend_panel
+madrid.retabet.es##.jactiveStreaming.jstreamingContainer.video
